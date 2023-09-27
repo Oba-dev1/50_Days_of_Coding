@@ -10,6 +10,9 @@ Hey everyone! 👋 Yesterday marked the start of an exciting journey to level up
 (What's the deal, like wetin happen, wonky cards?
 I was scratching my head, staring at the screen, wondering why my cards were getting all wonky. And then, it hit me like a ton of bricks - I had forgotten to add the closing div tags after copying the first image and h3 tags! 😅 Rookie mistake, right? But hey, we learn from our blunders!)
 
+🌟 Day 3: Rotating Navigation🌟
+(I present to you a beautifully crafted rotating navigation menu, born from the magic of HTML, heaps of CSS (seriously, the CSS choke for this one but we don't get tired here 😅), and a dash of JavaScript for that extra spice!)
+
 💡 Imposter Syndrome, I've got my eye on you! 👁️💪
 
 I'll be honest, there are moments when the tech world feels like an endless galaxy of knowledge, but here's the secret: Every coder, no matter how experienced, once started as a beginner.
